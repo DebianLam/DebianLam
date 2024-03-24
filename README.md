@@ -1,3 +1,1 @@
---Hi I'm Debian Lam, you can call me DB for short
---I'm just a small developer trying out stuff
---Stay Positive :D
+Hi I'm Debian Lam, call me DB for short. Stay Positive :D
