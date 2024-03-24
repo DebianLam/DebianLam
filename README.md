@@ -1,0 +1,6 @@
+- Hi I'm Debian Lam
+- You can call me DB if you like
+- And yes my name is inspired from the Distro
+- Anyways I'm a small developer
+- Stay Positive
+- :D
