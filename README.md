@@ -1,6 +1,3 @@
-- Hi I'm Debian Lam
-- You can call me DB if you like
-- And yes my name is inspired from the Distro
-- Anyways I'm a small developer
-- Stay Positive
-- :D
+Hi I'm Debian Lam, you can call me DB for short
+I'm just a small developer trying out stuff
+Stay Positive :D
